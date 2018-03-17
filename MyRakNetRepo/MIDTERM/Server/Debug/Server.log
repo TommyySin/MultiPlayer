@@ -1,0 +1,7 @@
+﻿  main_server.cpp
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\server\main_server.cpp(105): warning C4018: '>': signed/unsigned mismatch
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\server\main_server.cpp(194): warning C4018: '>': signed/unsigned mismatch
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\server\main_server.cpp(291): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\server\main_server.cpp(398): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Server.vcxproj -> C:\Users\Tommy\Desktop\MyRakNetRepo-master\MidtermProject\Debug\Server.exe
+  Server.vcxproj -> C:\Users\Tommy\Desktop\MyRakNetRepo-master\MidtermProject\Debug\Server.pdb (Partial PDB)

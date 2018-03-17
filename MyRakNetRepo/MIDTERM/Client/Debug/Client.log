@@ -1,0 +1,8 @@
+﻿  main_client.cpp
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\client\main_client.cpp(215): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\client\main_client.cpp(240): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\client\main_client.cpp(253): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\client\main_client.cpp(184): warning C4101: 'userInput': unreferenced local variable
+c:\users\tommy\desktop\myraknetrepo-master\midtermproject\client\main_client.cpp(280): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+  Client.vcxproj -> C:\Users\Tommy\Desktop\MyRakNetRepo-master\MidtermProject\Debug\Client.exe
+  Client.vcxproj -> C:\Users\Tommy\Desktop\MyRakNetRepo-master\MidtermProject\Debug\Client.pdb (Partial PDB)
